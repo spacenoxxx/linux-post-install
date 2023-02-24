@@ -13,7 +13,7 @@ Use the following Debian ISO as the base <https://cdimage.debian.org/cdimage/uno
 
 ```
 git clone https://github.com/spacenoxxx/linux-post-install
-cd debian-titus
+cd linux-post-install
 sudo ./install.sh
 ```
 
